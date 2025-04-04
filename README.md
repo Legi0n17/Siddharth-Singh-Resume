@@ -17,7 +17,7 @@ I am a passionate cybersecurity professional with expertise in penetration testi
 - **Python Scripting & SQL Injection Testing**
 
 ## 🔗 Connect With Me
-- **GitHub:** [[github.com/SiddharthSingh](https://github.com/Legi0n17)
+- **GitHub:** [github.com/SiddharthSingh](https://github.com/Legi0n17)
 - **LinkedIn:** [linkedin.com/in/SiddharthSingh](https://linkedin.com/in/siddharth-singh1117)
 - **Email:** [1617.sid@gmail.com](mailto:1617.sid@gmail.com)
 
