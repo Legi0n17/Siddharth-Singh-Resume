@@ -7,7 +7,7 @@ I am a passionate cybersecurity professional with expertise in penetration testi
 
 ## 📌 What’s Inside
 - **Resume.pdf** - My latest resume in PDF format.
-- **Certifications/** - A collection of my certifications and achievements in cybersecurity.
+- **Certifications** - A collection of my certifications and achievements in cybersecurity.
 
 ## 🚀 Skills & Expertise
 - **Penetration Testing & VAPT**
